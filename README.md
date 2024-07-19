@@ -1,1 +1,1 @@
-# Donguler
+for döngüsü kullanılarak yapılmış birkaç örnek
